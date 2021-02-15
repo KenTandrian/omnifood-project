@@ -1,1 +1,2 @@
--a  A Project for a restaurant website
+# Omnifood
+A Project for a restaurant website
